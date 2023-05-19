@@ -14,7 +14,7 @@ Welcome to my GitHub!
 </details>
 
 ---
-> A jack of all trades is a master o none, but oftentimes better than master of one.
+> "Jack of all trades, master of none, but oftentimes better than a master of one".
 
 — Quote by which i live.
  
