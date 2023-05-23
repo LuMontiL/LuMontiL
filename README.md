@@ -3,6 +3,7 @@
 Welcome to my GitHub!
  
   <summary>My top languages</summary>
+  <details>
 
 | Rank | Languages |
 |-----:|-----------|
