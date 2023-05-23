@@ -1,8 +1,7 @@
 ### Hi there 👋 
 
 Welcome to my GitHub!
-<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
-<details> 
+ 
   <summary>My top languages</summary>
 
 | Rank | Languages |
