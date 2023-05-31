@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 Welcome to my GitHub!
- 
+ <details>
   <summary>My top languages</summary>
-  <details>
+  
 
 | Rank | Languages |
 |-----:|-----------|
